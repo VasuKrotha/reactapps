@@ -1,0 +1,39 @@
+.fotter {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(243, 239, 236);
+}
+.pagination {
+  padding: 10px;
+  margin: 15px 0;
+  display: flex;
+  justify-content: center;
+}
+.pagination > span {
+  padding: 15px 20px;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+.pageselected {
+  background-color: rgb(138, 143, 143);
+}
+.pagenone {
+  opacity: 0;
+}
+
+.mybtn {
+  background-color: orange;
+  width: 150px;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+}
+
+.addbtn {
+  background-color: yellow;
+  width: 150px;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+}
